@@ -72,7 +72,7 @@ body {
 
 .story__content {
   background-color: #f9f7f6;
-  grid-column: col-start / full-end; }
+  grid-column: 7 / full-end; }
 
 .homes {
   background-color: #101d2c;
